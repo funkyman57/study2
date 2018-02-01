@@ -1,8 +1,14 @@
 void main()
 {
-	return 0;
+	return 2018;
 }
 
 
 void func1(){
+}
+
+void func2(){
+}
+
+void func3(){
 }
